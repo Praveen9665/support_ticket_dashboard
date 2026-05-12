@@ -51,3 +51,50 @@ npm run dev
 - **Filtering**: Search and filter by priority or status.
 - **Responsive UI**: Optimized for all device sizes.
 - **Secure API**: CORS-enabled and environment-driven configuration.
+
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router DOM
+- Lucide React
+- React Toastify
+
+### Backend
+- Node.js
+- Express.js
+- ES Modules (`type: module`)
+- dotenv
+- CORS
+- Nodemon
+
+### Database / Storage
+- In-Memory Data Store
+- Optional MySQL Integration
+
+### Development Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+##  Additional Highlights
+- Scalable and reusable component architecture
+- Centralized API handling using Axios instance
+- Async error handling middleware
+- Global error and not-found middleware
+- Dynamic search and filtering system
+- Responsive UI for desktop, tablet, and mobile
+- Environment-based configuration using `.env`
+- Clean and maintainable codebase
+- Production-ready backend structure
+- Optimized state management using React hooks
+- Proper loading, empty state, and API error handling
+- Secure CORS configuration
+- RESTful API architecture
+- Deployment-ready setup
